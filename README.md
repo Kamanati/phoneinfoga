@@ -72,3 +72,17 @@ This tool is licensed under the GNU General Public License v3.0.
 [![](docs/jetbrains.svg)](https://www.jetbrains.com/?from=sundowndev)
 
 Thanks to [JetBrains](https://www.jetbrains.com/?from=sundowndev) for supporting my open-source projects.
+<p align="center">
+
+
+<a href="https://www.instagram.com/hasanfq6/"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+<a href="https://wa.me/919629013836"><img title="whatsapp" src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+
+
+<a href="https://www.facebook.com/hasanfq"><img title="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
+
+
+<a href="https://www.email.com/hasanfq818@gmail.com/"><img title="email" src="https://img.shields.io/badge/email-%231DA1F2.svg?&style=for-the-badge&logo=email&logoColor=white"></a>
+
+</p>
